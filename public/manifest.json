@@ -1,0 +1,19 @@
+{
+  "short_name": "LinuxTerm",
+  "name": "Linux Terminal PWA",
+  "description": "Full-featured Linux Bash Terminal PWA with multi-tab interactive shell, process manager, and workspace file explorer.",
+  "icons": [
+    {
+      "src": "/terminal-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "display": "standalone",
+  "orientation": "any",
+  "categories": ["utilities", "developer", "productivity"]
+}

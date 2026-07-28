@@ -1,0 +1,6 @@
+{
+  "name": "Linux Terminal PWA",
+  "description": "A full-featured Progressive Web App providing a fully functional interactive Linux bash terminal, multi-tab execution, file management, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
